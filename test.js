@@ -19,3 +19,4 @@ let house = {
 
 console.log(house.calculatePrice())
 
+Вношу серьёзные изменения в код для второго коммита
