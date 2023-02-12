@@ -21,3 +21,7 @@ calculatePrice: function () {
 
 console.log(house.calculatePrice())
 
+Переключились на новую ветку «Vetka-2»
+Переключились на новую ветку «Vetka-2»
+Переключились на новую ветку «Vetka-2»
+Переключились на новую ветку «Vetka-2»
