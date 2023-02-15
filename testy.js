@@ -1,0 +1,2 @@
+HTMLAreaElemen;
+decodeURIComponent;
